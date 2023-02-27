@@ -1,0 +1,11 @@
+Model Information:
+* title:	Single Bay Carport
+* source:	https://sketchfab.com/3d-models/single-bay-carport-351174c60fb94cf18ebee3bbe2db941f
+* author:	WholeTrees (https://sketchfab.com/wholetreesstructures)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Single Bay Carport" (https://sketchfab.com/3d-models/single-bay-carport-351174c60fb94cf18ebee3bbe2db941f) by WholeTrees (https://sketchfab.com/wholetreesstructures) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
